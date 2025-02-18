@@ -32,8 +32,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://moonlit-nougat-50d52e.netlify.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://moonlit-nougat-50d52e.netlify.app/"><img src={LenoPage} alt="Leno App" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a 
+                            href="https://moonlit-nougat-50d52e.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://moonlit-nougat-50d52e.netlify.app/"   
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={LenoPage} alt="Leno App" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">
@@ -52,8 +62,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://loquacious-panda-9f35a4.netlify.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://loquacious-panda-9f35a4.netlify.app/"><img src={EcommerceWebsite} alt="EcommerceWebsite" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a 
+                            href="https://loquacious-panda-9f35a4.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://loquacious-panda-9f35a4.netlify.app/"   
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={EcommerceWebsite} alt="EcommerceWebsite" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">
@@ -72,8 +92,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://sparkly-snickerdoodle-e5099d.netlify.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://sparkly-snickerdoodle-e5099d.netlify.app/"><img src={Maptyapp} alt="Maptyapp" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a 
+                            href="https://sparkly-snickerdoodle-e5099d.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://sparkly-snickerdoodle-e5099d.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={Maptyapp} alt="Maptyapp" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">
@@ -92,8 +122,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://search-and-edit.netlify.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://search-and-edit.netlify.app/"><img src={Imagesearch} alt="Imagesearch" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a 
+                            href="https://search-and-edit.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://search-and-edit.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={Imagesearch} alt="Imagesearch" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">
@@ -112,8 +152,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://practicehostdeck.netlify.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://practicehostdeck.netlify.app/"><img src={Hostdeck} alt="Hostdeck" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a 
+                            href="https://practicehostdeck.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://practicehostdeck.netlify.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={Hostdeck} alt="Hostdeck" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">
@@ -132,8 +182,18 @@ export const Projects = () => {
                         }
                     </div>
                     <div className="flex justify-between items-center flex-col">
-                        <a href="https://tutor-website-5wqw10vdy-mayanks-projects-e41da9e2.vercel.app/" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project </a>
-                        <a href="https://tutor-website-5wqw10vdy-mayanks-projects-e41da9e2.vercel.app/"><img src={Tutor} alt="Tutor" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/></a>
+                        <a
+                            href="https://tutor-website-5wqw10vdy-mayanks-projects-e41da9e2.vercel.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            className="text-blue-400 hover:text-blue-300 transition-colors my-4">View project 
+                        </a>
+                        <a 
+                            href="https://tutor-website-5wqw10vdy-mayanks-projects-e41da9e2.vercel.app/"
+                            target="_blank" 
+                            rel="noopener noreferrer">
+                                <img src={Tutor} alt="Tutor" className="w-full h-auto rounded-xl transition-transform duration-300 ease-in-out hover:scale-105"/>
+                        </a>
                     </div>
                 </div>
             </div>
